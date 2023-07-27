@@ -8,8 +8,8 @@ The main function of this contract is to store numbers and then you can retrieve
 
 
 to run you need to write this in your terminal
+```bash
 
-'''
 yarn ts-node deploy.ts
 
-'''
+```
