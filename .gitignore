@@ -1,0 +1,5 @@
+.env
+/node_modules
+encryptedKey.json
+SimpleStorage_sol_SimpleStorage.abi
+SimpleStorage_sol_SimpleStorage.bin
